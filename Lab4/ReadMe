@@ -1,0 +1,3 @@
+#First Using Python
+Use python to convert image size as well as take the average rgb of each image and save that to a csv file to be used with weka.
+Then in weka use the newly created csv file to match the images to each other. 
